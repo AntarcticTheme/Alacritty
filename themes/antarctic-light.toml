@@ -1,0 +1,32 @@
+# Antarctic Light — MIT license
+[colors.primary]
+background = "#EDF3F7"
+foreground = "#344C59"
+
+[colors.cursor]
+cursor = "#177277"
+text = "#F3FBFF"
+
+[colors.selection]
+background = "#344C59"
+text = "#F3FBFF"
+
+[colors.normal]
+black = "#1D2D33"
+red = "#99372C"
+green = "#2A7459"
+yellow = "#915B17"
+blue = "#344C59"
+magenta = "#9E468E"
+cyan = "#416F72"
+white = "#626968"
+
+[colors.bright]
+black = "#626968"
+red = "#C13026"
+green = "#2A7459"
+yellow = "#A15212"
+blue = "#436E76"
+magenta = "#B22B9F"
+cyan = "#177277"
+white = "#344C59"

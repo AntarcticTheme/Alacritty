@@ -1,0 +1,32 @@
+# Antarctic Dark — MIT license
+[colors.primary]
+background = "#1D2D33"
+foreground = "#F3FBFF"
+
+[colors.cursor]
+cursor = "#5CD5DC"
+text = "#142228"
+
+[colors.selection]
+background = "#344C59"
+text = "#F3FBFF"
+
+[colors.normal]
+black = "#142228"
+red = "#E58B80"
+green = "#73D5AD"
+yellow = "#E5B16A"
+blue = "#7FB3B7"
+magenta = "#CE8BC1"
+cyan = "#7FB3B7"
+white = "#9BAAAE"
+
+[colors.bright]
+black = "#9BAAAE"
+red = "#F5A094"
+green = "#73D5AD"
+yellow = "#F3BE83"
+blue = "#92C1CA"
+magenta = "#E6A0D8"
+cyan = "#5CD5DC"
+white = "#F3FBFF"
